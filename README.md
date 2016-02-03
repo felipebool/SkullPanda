@@ -1,2 +1,1 @@
-# skull_panda
-wordpress theme skeleton
+# wordpress_stuff

@@ -1,0 +1,14 @@
+How to remove the /category from wordpress url?
+- go to admin panel -> settings -> permalinks
+- select personal structure and put /%category%/%postname%/
+- also put . as category base
+
+How to use page-templates properly?
+- Page templates must have a "header comment area at least
+like this
+/** 
+ * Template Name: About us template
+ */
+To appear in wordpress admin panel
+
+
